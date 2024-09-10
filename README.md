@@ -7,13 +7,16 @@ This Bot is created using python and will provide the service to download the In
 ## Installation
    -> clone the repo and setup the pyhon file to the intended directory .
    -> Setup the local environment or global environment will works fine    
-   -> install the required dependencies :
+   -> install the required dependencies 
+   ->  After performing the installation process , paste your telegram token ( provided by telegram Father Bot ) in variable 
+       tok_hash in   `vid_req_bot.py` file and after that just run the  script using IDE or terminal.
+       open your telegram bot profile and paste any instagram post link which contains either video or photo.
+       After few seconds there you go.
+      
+# Use
       pip install pyshortners
       pip install instaloader
       pip install python-telegram-bot
-# Use
-    After performing the installation process , paste your telegram token ( provided by telegram Father Bot ) in variable tok_hash in   `vid_req_bot.py` file and after that just run the  script using IDE or terminal.
-    open your telegram bot profile and paste any instagram post link which contains either video or photo. After few seconds there you go.
 
 ## Contact
 Created by [Om Kumar](https://github.com/om-kumar07) - feel free to contact me at notifyomkumar@gmail.com.
